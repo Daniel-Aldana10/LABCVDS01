@@ -22,7 +22,7 @@ Utiliza los siguientes comando en el directorio donde tienes tu proyecto, en est
     ```bash
       git push "url repositorio"
     ```
-![image](https://github.com/Daniel-Aldana10/LABCVDS01/blob/master/imagenes/subir%20cambios.pngg)
+![image](https://github.com/Daniel-Aldana10/LABCVDS01/blob/master/imagenes/subir%20cambios.png)
 
 - Configura el correo en git local de manera correcta
 ![image](https://github.com/Daniel-Aldana10/LABCVDS01/blob/master/imagenes/configurar%20correo.png)
