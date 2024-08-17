@@ -7,8 +7,8 @@ git add: Sirve para notificar a Git que en una proxima confirmacion, habran camb
 git commit -m "mensaje": Sirve para guardar como esta actualmente el proyecto, los cambios realizados estaran en el repositorio de Git, el espacio para mensaje es para realizar una pequeña descripcion de los cambios logrados.
 - Enlazar cuenta de GitHub con el correo institucional
 ![image](https://github.com/Daniel-Aldana10/LABCVDS01/blob/master/imagenes/Screenshot%202024-08-17%20111217.png)
--Configurar el repositorio local con el repositorio remoto
- 
+- Configurar el repositorio local con el repositorio remoto
+![image](https://github.com/Daniel-Aldana10/LABCVDS01/blob/master/imagenes/Screenshot%202024-08-17%20114518.png)
 - Sube los cambios, teniendo en cuenta lo que averiguaste en el punto 3
 Utiliza los siguientes comando en el directorio donde tienes tu proyecto, en este orden:
    	```bash
@@ -22,5 +22,8 @@ Utiliza los siguientes comando en el directorio donde tienes tu proyecto, en est
     ```bash
       git push "url repositorio"
     ```
+
+- Configura el correo en git local de manera correcta
+
 
 
